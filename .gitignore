@@ -5,3 +5,4 @@ Lib/
 Scripts/
 tcl/
 __pycache__/
+application/__pycache__/
