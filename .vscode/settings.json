@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.rendererType": "dom",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "python.linting.pylintPath": "C:\\Users\\c0015004\\flask_oauth2\\Scripts\\flake8.exe",
+    "workbench.sideBar.location": "left"
+}
